@@ -1,0 +1,102 @@
+.container {
+    height: 75px;
+    width: 1600px;
+    margin: 0 auto;
+}
+
+.header {
+    height: 75px;
+    width: 1600px;
+    margin: 0 auto;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 98.04%;
+    background: #222222;
+}
+
+.nav_section_left {
+    float: left;
+}
+
+.nav_section_right {
+    float: right;
+}
+
+.logo {
+    position: absolute;
+    left: 14.44%;
+    right: 82.81%;
+    top: 18px;
+    bottom: 98.54%;
+}
+
+.glass {
+    position: absolute;
+    left: 19.75%;
+    right: 78.63%;
+    top: 28.21px;
+    bottom: 98.56%;
+}
+
+.menu {
+    position: absolute;
+    left: 75.06%;
+    right: 22.94%;
+    top: 30px;
+    bottom: 98.62%;
+}
+
+.contact {
+    position: absolute;
+    left: 79.12%;
+    right: 19.06%;
+    top: 26px;
+    bottom: 98.56%;
+}
+
+.trash {
+    position: absolute;
+    left: 83%;
+    right: 15%;
+    top: 26px;
+    bottom: 98.56%;
+}
+
+.content {
+    width: 800.58px;
+    height: 764px;
+    background: url(Layer_57.png);
+    float: left;
+}
+
+.description {
+    width: 1600px;
+    height: 764px;
+    margin-top: 75px;
+    background: #F1E4E6;
+}
+
+.brand_text {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 58px;
+    color: #222222;
+    padding-top: 290px;
+    text-transform: uppercase;
+}
+
+.brand_text_small {
+    text-transform: uppercase;
+    padding-bottom: 381px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 700;
+}
+
+span {
+    color: deeppink;
+}
